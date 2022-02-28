@@ -6,34 +6,34 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surf-report',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'project1',
+      description: 'Password Generator',
+      link: "https://kateneuse.github.io/password-generator/",
+      repo: "https://github.com/kateneuse/password-generator"
     },
     {
-      name: 'pastel-puzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'project2',
+      description: 'Coding Quiz Challenge',
+      link: "https://kateneuse.github.io/code-quiz/",
+      repo: "https://github.com/kateneuse/code-quiz"
     },
     {
-      name: 'run-buddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'project3',
+      description: 'Work Day Scheduler',
+      link: "https://kateneuse.github.io/day-planner/",
+      repo: "https://github.com/kateneuse/day-planner"
     },
     {
-      name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'project4',
+      description: 'Weather Dashboard',
+      link: "https://kateneuse.github.io/weatherDashboard/",
+      repo: "https://github.com/kateneuse/weatherDashboard"
     },
     {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'project5',
+      description: 'API/Javascript Project',
+      link: "https://kateneuse.github.io/project1/",
+      repo: "https://github.com/kateneuse/project1"
     },
   ]);
 
