@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-Portfolio/static/css/main.08325502.chunk.css",
+    "main.js": "/react-Portfolio/static/js/main.a83aea7e.chunk.js",
+    "main.js.map": "/react-Portfolio/static/js/main.a83aea7e.chunk.js.map",
+    "runtime-main.js": "/react-Portfolio/static/js/runtime-main.8a17f608.js",
+    "runtime-main.js.map": "/react-Portfolio/static/js/runtime-main.8a17f608.js.map",
+    "static/js/2.102548e6.chunk.js": "/react-Portfolio/static/js/2.102548e6.chunk.js",
+    "static/js/2.102548e6.chunk.js.map": "/react-Portfolio/static/js/2.102548e6.chunk.js.map",
+    "index.html": "/react-Portfolio/index.html",
+    "precache-manifest.b9cb2e3e2a6126e003df4738aca2259d.js": "/react-Portfolio/precache-manifest.b9cb2e3e2a6126e003df4738aca2259d.js",
+    "service-worker.js": "/react-Portfolio/service-worker.js",
+    "static/css/main.08325502.chunk.css.map": "/react-Portfolio/static/css/main.08325502.chunk.css.map",
+    "static/js/2.102548e6.chunk.js.LICENSE.txt": "/react-Portfolio/static/js/2.102548e6.chunk.js.LICENSE.txt",
+    "static/media/calculator.jpg": "/react-Portfolio/static/media/calculator.a19f2b67.jpg",
+    "static/media/cover-image.jpg": "/react-Portfolio/static/media/cover-image.402a471b.jpg",
+    "static/media/led-wall.jpg": "/react-Portfolio/static/media/led-wall.653c2b3d.jpg",
+    "static/media/pastel-puzzels.jpg": "/react-Portfolio/static/media/pastel-puzzels.ed494730.jpg",
+    "static/media/run-buddy.jpg": "/react-Portfolio/static/media/run-buddy.938f8fe0.jpg",
+    "static/media/surf-report.jpg": "/react-Portfolio/static/media/surf-report.12557c9b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a17f608.js",
+    "static/js/2.102548e6.chunk.js",
+    "static/css/main.08325502.chunk.css",
+    "static/js/main.a83aea7e.chunk.js"
+  ]
+}
